@@ -8,7 +8,7 @@ Official Programming Website: http://codeeval.com
 All challenges tried in Java and PHP
 
 ###Ranked top 5% in Java programming
-####Ranked 4th in Fresno All Time
+####Ranked 2nd in Fresno All Time
 Screenshot from my profile
 ![codeeval](https://cloud.githubusercontent.com/assets/13976421/13162496/2e5741c6-d65a-11e5-8cd6-847d47d72fdb.png)
 
